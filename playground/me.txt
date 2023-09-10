@@ -1,0 +1,6 @@
+{{#user}}
+Name: Shubham Dhaundiyal
+Skills: HTML, CSS, JS, React
+Email: shubhamdhaundiyal789@gmail.com
+{{/user}}
+
